@@ -3,6 +3,6 @@ numpy
 joblib
 os
 xgboost
-plotly.express
+plotly
 pandas
 random
