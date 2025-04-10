@@ -1,5 +1,8 @@
 streamlit
-xgboost
-scikit-learn
-pandas
 numpy
+joblib
+os
+xgboost
+plotly.express
+pandas
+random
