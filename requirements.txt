@@ -1,7 +1,6 @@
 streamlit
 numpy
 joblib
-os
 xgboost
 plotly
 pandas
